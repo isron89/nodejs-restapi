@@ -1,0 +1,20 @@
+{
+  "name": "http-server",
+  "version": "1.0.0",
+  "description": "http web service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "server": "node server.js",
+    "route-server": "node routing-server.js",
+    "response-server": "node response-server.js"
+  },
+  "keywords": [
+    "http",
+    "web",
+    "server"
+  ],
+  "author": "isrunn",
+  "license": "ISC"
+}
