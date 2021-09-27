@@ -1,6 +1,6 @@
 # Nodejs-Restapi
 
-Sample RestAPI with NodeJS HTTP Server
+Sample RestAPI with Node.js HTTP Server
 
 Doc:
 1. npm run start -> running basic http server with 200 response code. 
