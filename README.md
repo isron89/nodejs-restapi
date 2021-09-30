@@ -2,7 +2,7 @@
 
 Sample RestAPI with Node.js HTTP Server
 
-Doc:
+Documentation:
 1. npm run start -> running basic http server with 200 response code. 
 example request : curl -i -X GET http://localhost:5000/
 2. npm run server -> handle http request method GET,POST,PUT,DELETE. 
