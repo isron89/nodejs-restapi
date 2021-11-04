@@ -12,7 +12,7 @@ curl -i -X PUT http://localhost:5000/,
 curl -i -X DELETE http://localhost:5000/, 
 curl -i -X POST -H "Content-Type: application/json" -d "{"name":"isron","age":"21"}" http://localhost:5000
 
-3. npm run route-server -> http server according to url path. 
+3. npm run route-server -> http server handling according to url path. 
 example request : curl -i -X GET http://localhost:5000/, 
 curl -i -X GET http://localhost:5000/about 
 curl -i -X POST -H "Content-Type: application/json" -d "{"name":"isron","age":"21"}" http://localhost:5000/about
